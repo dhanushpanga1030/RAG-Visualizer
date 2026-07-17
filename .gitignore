@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+build/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+backend/chroma_db/
+assets/
+frontend/src/assets/
